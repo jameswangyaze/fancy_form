@@ -1,0 +1,26 @@
+{
+  "name": "fancy_form",
+  "version": "1.0.0",
+  "description": "fancy_form",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameswangyaze/fancy_form.git"
+  },
+  "keywords": [
+    "fancy",
+    "form"
+  ],
+  "author": "James Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameswangyaze/fancy_form/issues"
+  },
+  "homepage": "https://github.com/jameswangyaze/fancy_form#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
